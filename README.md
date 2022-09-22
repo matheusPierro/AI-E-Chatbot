@@ -1,9 +1,9 @@
-## How to read this repository?
+## Como funciona o repositório?
 
-#### Classes
-Within the Classes folder you will find the contents of each specific class.
-* Documents like AI-E-Chatbot projects
-* PDFs about the classes
-* Some tips about the content
+#### Aulas
+Dentro da pasta Aulas você vai encontrar o conteúdo específico passado em cada aula.
+* Podem ter projetos AI-E-Chatbot
+* PDFs sobre a aula
+* Dicas sobre o conteúdo
 
-##### If you have any doubts, you can call me on social media!
+##### Se estiver com alguma dúvida você pode me chamar nas redes sociais
