@@ -1,0 +1,1318 @@
+{
+  "intents": [
+    {
+      "intent": "Boletim-Aluno",
+      "examples": [
+        {
+          "text": "Boa noite conseguiria enviar o boletim?"
+        },
+        {
+          "text": "Boa tarde, gostaria de ver meu boletim"
+        },
+        {
+          "text": "Bom dia poderia me enviar o boletim"
+        },
+        {
+          "text": "Como faço para ter acesso ao boletim?"
+        },
+        {
+          "text": "Como solicito meu boletim?"
+        },
+        {
+          "text": "Gostaria de saber se tenho notas vermelhas, envie meu boletim por favor"
+        },
+        {
+          "text": "Onde tenho acesso ao meu boletim de notas"
+        },
+        {
+          "text": "Poderia emitir meu boletim por gentileza?"
+        },
+        {
+          "text": "Poderia mandar minhas notas, por favor"
+        },
+        {
+          "text": "Posso pegar meu boletim?"
+        },
+        {
+          "text": "Preciso de algo para solicitar o boletim?"
+        },
+        {
+          "text": "Preciso saber meu boletim para saber se eu passei de semestre"
+        }
+      ],
+      "description": "Atendimento reservado e direcionado para alunos em geral, relacionado a notas "
+    },
+    {
+      "intent": "Calendário_Aluno",
+      "examples": [
+        {
+          "text": "Boa noite, como ter acesso ao calendário de aulas?"
+        },
+        {
+          "text": "Boa tarde, como ter acesso ao calendário de aulas"
+        },
+        {
+          "text": "Bom dia, como ter acesso ao calendário de aulas?"
+        },
+        {
+          "text": "Como conseguir acesso ao calendário?"
+        },
+        {
+          "text": "Como consigo acesso ao calendário de aulas"
+        },
+        {
+          "text": "Como eu faço para acessar o calendário de aulas?"
+        },
+        {
+          "text": "Desejo acessar o calendário de aulas"
+        },
+        {
+          "text": "Gostaria de receber o meu calendário de aulas"
+        },
+        {
+          "text": "Olá, gostaria de ver o calendário de aulas"
+        },
+        {
+          "text": "Por favor, como acessar ao calendário de aulas?"
+        },
+        {
+          "text": "Preciso ver meu calendário de aulas"
+        },
+        {
+          "text": "Quero acesso ao calendário de aulas"
+        }
+      ],
+      "description": "Intenção dedicada para acesso e dúvidas ao calendário de eventos e avaliações em geral."
+    },
+    {
+      "intent": "Cursos-Não_Aluno",
+      "examples": [
+        {
+          "text": "Boa noite, quero conhecer os cursos da faculdade"
+        },
+        {
+          "text": "Boa tarde, quero ingressar meu filho na faculdade quais são o cursos disponivieis?"
+        },
+        {
+          "text": "Bom dia, gostaria de saber os cursos existentes"
+        },
+        {
+          "text": "Eu tenho interesse em saber, quais cursos estão disponíveis em Graduação"
+        },
+        {
+          "text": "Existem quantos MBAs"
+        },
+        {
+          "text": "Gostaria de conhecer os cursos de Graduação"
+        },
+        {
+          "text": "Gostaria de conhecer os cursos de Pós Graduação"
+        },
+        {
+          "text": "Gostaria de saber os cursos existentes"
+        },
+        {
+          "text": "Gostaria de saber quais cursos de graduação estão disponíveis"
+        },
+        {
+          "text": "Quais são os cursos de pós-graduação?"
+        },
+        {
+          "text": "Qual a duração dos cursos de MBAs"
+        },
+        {
+          "text": "Quero conhecer as cursos disponíveis"
+        },
+        {
+          "text": "Tenho interesse em ingressar num curso MBA"
+        }
+      ],
+      "description": "Graduações, MBAs e Pós Graduações"
+    },
+    {
+      "intent": "Financeiro_Aluno",
+      "examples": [
+        {
+          "text": "Boa noite, eu atrasei o pagamento do meu boleto"
+        },
+        {
+          "text": "Boa tarde gostaria de ter acesso ao meu boleto"
+        },
+        {
+          "text": "Bom dia, gostaria de ter acesso ao boleto deste mês"
+        },
+        {
+          "text": "Gostaria de efetuar o pagamento do boleto"
+        },
+        {
+          "text": "Minha mensalidade está atrasada, e preciso pagar"
+        },
+        {
+          "text": "Não consigo ter acesso ao meu boleto que preciso pagar"
+        },
+        {
+          "text": "Ola, onde eu posso pagar o boleto?"
+        },
+        {
+          "text": "Poderia gerar meu boleto, por gentileza"
+        },
+        {
+          "text": "Quero pagar meus boletos da faculdade"
+        },
+        {
+          "text": "Quero realizar o pagamento da mensalidade"
+        },
+        {
+          "text": "Solicitar o boleto referente ao mês pendente"
+        },
+        {
+          "text": "Tenho que resolver assuntos a respeito da minha mensalidade"
+        }
+      ],
+      "description": "Assuntos e dúvidas relacionadas ao financeiro, mensalidades, valores em geral, qualquer assunto relacionado a finanças do aluno."
+    },
+    {
+      "intent": "Internacionalização_Aluno",
+      "examples": [
+        {
+          "text": "Como faço para ter informações sobre a internacionalização"
+        },
+        {
+          "text": "Desejo falar sobre a internacionalização"
+        },
+        {
+          "text": "Gostaria de saber mais sobre a internacionalização"
+        },
+        {
+          "text": "Olá. Desejo informações sobre a internacionalização"
+        },
+        {
+          "text": "Poderia me informar sobre a internacionalização"
+        },
+        {
+          "text": "Por favor, pode me informar sobre a internacionalização"
+        },
+        {
+          "text": "Preciso saber da internacionalização"
+        },
+        {
+          "text": "Pretendo fazer a internacionalização, como faço?"
+        },
+        {
+          "text": "Quero falar sobre internacionalização"
+        },
+        {
+          "text": "Quero internacionalização"
+        },
+        {
+          "text": "Sobre a internacionalização"
+        },
+        {
+          "text": "Tenho interesse em realizar a internacionalização"
+        }
+      ],
+      "description": "Internacionalização com parceria da faculdade"
+    },
+    {
+      "intent": "Outros_Assuntos-Não_Aluno",
+      "examples": [
+        {
+          "text": "Como eu poderia tratar de outro assunto?"
+        },
+        {
+          "text": "Entendi, preciso tratar de outros assuntos"
+        },
+        {
+          "text": "Gostaria de tratar de outros assuntos"
+        },
+        {
+          "text": "Minha necessidade no momento seria resolver outro assunto"
+        },
+        {
+          "text": "Nenhuma das alternativas ou tópicos citados, vou tratar de outro assunto"
+        },
+        {
+          "text": "Nenhum dos tópicos principais, quero resolver outro assunto"
+        },
+        {
+          "text": "No meu caso não seria nenhuma desses assuntos, como eu poderia tratar de outros assuntos?"
+        },
+        {
+          "text": "Outro assunto no momento precisa ser resolvido"
+        },
+        {
+          "text": "Outros assuntos"
+        },
+        {
+          "text": "Outros assuntos para resolver"
+        },
+        {
+          "text": "Preciso resolver outro assunto"
+        },
+        {
+          "text": "Preciso resolver outros assuntos por hora"
+        }
+      ],
+      "description": "Esta intenção se trata de outros assuntos não presentes nos tópicos principais do canal de atendimento da universidade."
+    },
+    {
+      "intent": "Secretaria-aluno",
+      "examples": [
+        {
+          "text": "A secretaria está disponível"
+        },
+        {
+          "text": "Falar com secretaria"
+        },
+        {
+          "text": "Gostaria de falar com a secretaria"
+        },
+        {
+          "text": "Preciso falar com a secretaria"
+        },
+        {
+          "text": "Preciso resolver outros assuntos"
+        },
+        {
+          "text": "Quero resolver assuntos sobre secretaria"
+        },
+        {
+          "text": "Secretaria por favor"
+        },
+        {
+          "text": "Tenho problemas com a secretaria"
+        },
+        {
+          "text": "Tenho que falar com a secretaria"
+        },
+        {
+          "text": "Vou falar com a secretaria"
+        },
+        {
+          "text": "Vou falar com a secretria"
+        },
+        {
+          "text": "Vou resolver assuntos sobre a secretaria"
+        }
+      ],
+      "description": "Ajuda aos alunos a solucionar problemas relacionados a Documentação."
+    },
+    {
+      "intent": "Suporte_Técnico-Aluno",
+      "examples": [
+        {
+          "text": "Como mudo minha senha"
+        },
+        {
+          "text": "Esqueci meu email"
+        },
+        {
+          "text": "Esqueci meu rm"
+        },
+        {
+          "text": "Esqueci minha senha"
+        },
+        {
+          "text": "Estou com problemas para acessar o portal"
+        },
+        {
+          "text": "Gostaria de solicitar o suporte técnico"
+        },
+        {
+          "text": "Meu nome no cadastro esta errado"
+        },
+        {
+          "text": "Não consigo entrar no portal do aluno"
+        },
+        {
+          "text": "Não lembro meu RM"
+        },
+        {
+          "text": "Não lembro minha senha"
+        },
+        {
+          "text": "Não sei acessar o portal do aluno"
+        },
+        {
+          "text": "O portal esta com problemas"
+        }
+      ],
+      "description": "Problemas relacionados ao suporte técnico, qualquer tipo de suporte sobre cadastro ou técnico"
+    },
+    {
+      "intent": "Unidades",
+      "examples": [
+        {
+          "text": "Gostaria falar sobre unidades"
+        },
+        {
+          "text": "Posso trocar de unidade"
+        },
+        {
+          "text": "Preciso falar sobre as unidade"
+        },
+        {
+          "text": "Preciso saber quais unidades estão disponíveis"
+        },
+        {
+          "text": "Quais unidades estão disponíveis"
+        },
+        {
+          "text": "QUais unidades estaram disponiveis"
+        },
+        {
+          "text": "Qual unidade posso estudar"
+        },
+        {
+          "text": "Quero estudar em uma unidade"
+        },
+        {
+          "text": "Quero falar sobre unidades"
+        },
+        {
+          "text": "Tem unidades disponiveis"
+        },
+        {
+          "text": "Unidades"
+        },
+        {
+          "text": "unidades seria minha duvida"
+        }
+      ],
+      "description": "Intenção para unidades"
+    },
+    {
+      "intent": "Vestibular-Não_Aluno",
+      "examples": [
+        {
+          "text": "Bom dia, quero a data do vestibular"
+        },
+        {
+          "text": "Como faço para saber a data do vestibular?"
+        },
+        {
+          "text": "Desejo informações do próximo vestibular"
+        },
+        {
+          "text": "Desejo saber a data do vestibular"
+        },
+        {
+          "text": "Gostaria de saber as datas do vestibular mais próximo"
+        },
+        {
+          "text": "Ola, quando acontecerá o próximo vestibular?"
+        },
+        {
+          "text": "Preciso da data do vestibular"
+        },
+        {
+          "text": "Preciso ter acesso ao próximo vestibular"
+        },
+        {
+          "text": "Qual a data do próximo vestibular"
+        },
+        {
+          "text": "Qual será a data do próximo vestibular?"
+        },
+        {
+          "text": "Quando será realizado o próximo vestibular?"
+        },
+        {
+          "text": "Quero saber quando é o vestibular"
+        }
+      ],
+      "description": "Data de vestibular, Inscrição, Cursos disponíveis para o próximo vestibular"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Aluno",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Boletim",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Calendário",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Financeiro",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Internacionalização",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Secretaria",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Suporte Técnico",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Aluno-Não_Aluno",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Não",
+          "synonyms": [
+            "Não, eu não faço parte da instituição",
+            "Não sou aluno",
+            "Negativo",
+            "Nn"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Sim",
+          "synonyms": [
+            "Positivo",
+            "Sim, eu sou aluno da faculdade universidade",
+            "Sou aluno",
+            "Ss"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "confirmacao",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "OK",
+          "synonyms": [
+            "beleza",
+            "certo",
+            "claro",
+            "Okay"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "cursos",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Análise e Desenvolvimento de Sistemas",
+          "synonyms": [
+            "ADS"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Defesa Cibernética",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Não_Aluno",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Cursos",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Outros assuntos",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Unidades",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Vestibular",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Outros_assuntos-Não_Aluno",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Prezada UNIPPT...",
+          "synonyms": [
+            "prezada",
+            "prezada faculdade",
+            "\"Prezada UNIPPT...\"",
+            "unippt",
+            "UNIPPTT"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-currency",
+      "values": []
+    },
+    {
+      "entity": "Unidades",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Belo horizonte",
+          "synonyms": [
+            "belo",
+            "Belo Horizonte",
+            "BH",
+            "horizonte"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Rio de Janeiro",
+          "synonyms": [
+            "Rio",
+            "riodejaneiro",
+            "RJ"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "São Paulo",
+          "synonyms": [
+            "Sampa",
+            "SaoPaulo",
+            "São Paulo capital",
+            "Sp"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Bem vindo",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Olá! Seja bem vindo(a) ao canal de atendimento da universidade UNIPPT!\n\nPara começarmos, de uma forma mais organizada e objetiva, você é aluno da nossa instituição?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Bem-vindo"
+    },
+    {
+      "type": "standard",
+      "title": "Secretaria",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Legal! Iremos lhe direcionar para a nossa secretaria mas para ajudarmos você de forma mais rápida, qual seria sua dúvida?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1663804067161",
+      "conditions": "@Aluno:Secretaria",
+      "dialog_node": "node_10_1664156735692"
+    },
+    {
+      "type": "standard",
+      "title": "Vestibular Não aluno",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Olá! O que gostaria de saber sobre o vestibular?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1663816480274",
+      "conditions": "@Não_Aluno:Vestibular",
+      "dialog_node": "node_10_1664158497790",
+      "previous_sibling": "node_6_1664158255496"
+    },
+    {
+      "type": "standard",
+      "title": "Unidades Não Aluno",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Olá! Temos essas unidades disponíveis, selecione qual você gostaria de saber"
+              },
+              {
+                "text": "-São Paulo"
+              },
+              {
+                "text": "-Rio de Janeiro"
+              },
+              {
+                "text": "-Belo Horizonte"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_7_1663816480274",
+      "conditions": "#Unidades",
+      "dialog_node": "node_10_1664160111048",
+      "previous_sibling": "node_10_1664158497790"
+    },
+    {
+      "type": "standard",
+      "title": "Entidade erro",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "  Infelizmente não temos outras unidades localizadas neste local, mas caso não conseguiu sanar sua dúvida ou tenha outro assunto para tratar entre em contato diretamente com nossa equipe via telefone (11) 5061-9988. \n     Obrigado até a próxima!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_10_1664160111048",
+      "conditions": "@Unidades != \"Belo horizonte\" &&  @Unidades != \"São Paulo\" && @Unidades != \"Rio de Janeiro\"",
+      "dialog_node": "node_10_1664253104669",
+      "previous_sibling": "node_4_1664252960372"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ok, nosso curso de $curso_escolhido no valor @sys-currency está lhe trazendo dúvidas. Iremos redirecioná-lo para um de nossos assistentes para responder com clareza suas perguntas sobre o curso."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1664255213689",
+      "conditions": "@Aluno-Não_Aluno:Sim || @sys-currency",
+      "dialog_node": "node_10_1664256856412"
+    },
+    {
+      "type": "standard",
+      "title": "Assunto",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Certo! nosso calendário está disponível no portal do aluno, você pode acessar o calendário diretamente no link www2.calendarioeventos.com.br"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1664160167187",
+      "conditions": "#Calendário_Aluno",
+      "dialog_node": "node_1_1664160302093"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ok, nosso curso de $curso_escolhido está lhe trazendo dúvidas. Iremos redirecioná-lo para um de nossos assistentes para responder com clareza suas perguntas sobre o curso."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1664255213689",
+      "conditions": "@Aluno-Não_Aluno:Não",
+      "dialog_node": "node_1_1664257676986",
+      "previous_sibling": "node_10_1664256856412"
+    },
+    {
+      "type": "standard",
+      "title": "Entidade Outros Assuntos Não Aluno",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Certo! para tratar de outros assuntos, formule sua dúvida neste formato:"
+              },
+              {
+                "text": "\"Prezada UNIPPT...\" \n -Seu e-mail estudantil"
+              },
+              {
+                "text": "Desta forma sua dúvida será recolhida e respondida em instantes por nossos profissionais."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_7_1663816480274",
+      "conditions": "@Não_Aluno:(Outros assuntos)",
+      "dialog_node": "node_2_1664157421460"
+    },
+    {
+      "type": "standard",
+      "title": "Assunto",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Perfeito! Em alguns instantes você será atendido."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1664156735692",
+      "conditions": "#Secretaria-aluno",
+      "dialog_node": "node_2_1664159658193"
+    },
+    {
+      "type": "standard",
+      "title": "Assunto",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Entendi,  o nosso vestibular acontecera nos  dias 24 e 25 de março, para mais informações acesse o nosso site: www.uniptt.com.br"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1664158497790",
+      "conditions": "#Vestibular-Não_Aluno",
+      "dialog_node": "node_2_1664161364079"
+    },
+    {
+      "type": "standard",
+      "title": "Assunto",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Perfeito! Um dos nossos atendentes entrará em contato para resolver seu problema."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1664160156011",
+      "conditions": "#Suporte_Técnico-Aluno",
+      "dialog_node": "node_3_1664160158571"
+    },
+    {
+      "type": "standard",
+      "title": "Financeiro",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Beleza! Qual seria a sua duvida sobre o Financeiro?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1663804067161",
+      "conditions": "@Aluno:Financeiro",
+      "dialog_node": "node_3_1664160206077",
+      "previous_sibling": "node_7_1664160167187"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Certo! para tratar de outros assuntos, formule sua dúvida neste formato:"
+              },
+              {
+                "text": "\"Prezada UNIPPT...\" \n -Seu e-mail estudantil"
+              },
+              {
+                "text": "Desta forma sua dúvida será recolhida e respondida em instantes por nossos profissionais."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_4_1663804067161",
+      "conditions": "#Outros_Assuntos-Não_Aluno",
+      "dialog_node": "node_3_1664243960616",
+      "previous_sibling": "node_3_1664160206077"
+    },
+    {
+      "type": "standard",
+      "title": "Entidade Não Aluno",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ok! Sua dúvida será respondida por e-mail dentro da próximas 48 horas. Aguarde e se necessário nos contate novamente"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1664243960616",
+      "conditions": "@Outros_assuntos-Não_Aluno:(Prezada UNIPPT...)",
+      "dialog_node": "node_3_1664244050049"
+    },
+    {
+      "type": "standard",
+      "title": "Escolhendo curso",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ok, por um acaso iremos falar sobre valores? Se sim, nos informe o valor do curso."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1664161362321",
+      "context": {
+        "curso_escolhido": "@cursos.literal"
+      },
+      "conditions": "@cursos",
+      "dialog_node": "node_3_1664255213689"
+    },
+    {
+      "type": "standard",
+      "title": "Entidade Aluno ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Legal! Qual assunto você gostaria de tratar?\n\n - Secretaria (documentação): Assuntos relacionados aos documentos, e cadastros em geral do aluno.\n- Internacionalização: Nosso programa que envia alunos da nossa instituição com fins de estudo.\n - Suporte Técnico: Qualquer dúvida sobre suporte técnico.\n - Boletim e Notas: Resultados de avaliações como provas e atividades.\n - Calendário: Cronograma/ Datas dos possíveis eventos e feriados da instituição.\n - Financeiro: Assuntos ou problemas com pagamento. \n -Outros assuntos..."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Bem-vindo",
+      "conditions": "@Aluno-Não_Aluno:Sim",
+      "dialog_node": "node_4_1663804067161"
+    },
+    {
+      "type": "standard",
+      "title": "Suporte Técnico",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Olá! Como poderia ajudar com seu problema?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1663804067161",
+      "conditions": "@Aluno:(Suporte Técnico)",
+      "dialog_node": "node_4_1664160156011",
+      "previous_sibling": "node_6_1664158227313"
+    },
+    {
+      "type": "standard",
+      "title": "Boletim",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ok! De qual assunto está precisando sobre seu boletim? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1663804067161",
+      "conditions": "@Aluno:Boletim",
+      "dialog_node": "node_4_1664160165255",
+      "previous_sibling": "node_4_1664160156011"
+    },
+    {
+      "type": "standard",
+      "title": "Entidade São Paulo",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Em São Paulo temos duas unidades disponíveis:"
+              },
+              {
+                "text": "Unidade 1 - Av. Paulista 480, Consolação."
+              },
+              {
+                "text": "Unidade 2 - Rua Mongaguá das Preces 51, Moema."
+              },
+              {
+                "text": " Caso queira tratar sobre transferências de unidades ou um assunto mais profundo, entre em contato diretamente com nossa equipe via telefone (11) 5061-9988. \n     Obrigado até a próxima!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_10_1664160111048",
+      "conditions": "@Unidades:(São Paulo)",
+      "dialog_node": "node_4_1664161365960"
+    },
+    {
+      "type": "standard",
+      "title": "Entidade Belo Horizonte",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Temos uma unidade disponível em Belo Horizonte:"
+              },
+              {
+                "text": "Unidade 1 - Av Lino Bitura 8, Vila Matilde."
+              },
+              {
+                "text": " Caso queira tratar sobre transferências de unidades ou um assunto mais profundo, entre em contato diretamente com nossa equipe via telefone (11) 5061-9988. \n     Obrigado até a próxima!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_10_1664160111048",
+      "dialog_node": "node_4_1664252960372",
+      "previous_sibling": "node_6_1664252738884"
+    },
+    {
+      "type": "standard",
+      "title": "Assunto",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Entendido! Iremos encaminhá-lo para um atendente."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1664160206077",
+      "conditions": "#Financeiro_Aluno",
+      "dialog_node": "node_5_1664160292266"
+    },
+    {
+      "type": "standard",
+      "title": "Internacionalização",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Certo! Do que precisa saber sobre a Internacionalização? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1663804067161",
+      "conditions": "@Aluno:Internacionalização",
+      "dialog_node": "node_6_1664158227313",
+      "previous_sibling": "node_10_1664156735692"
+    },
+    {
+      "type": "standard",
+      "title": "Cursos Não Aluno",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Legal, para entendermos melhor iremos realizar alguma perguntas ok?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1663816480274",
+      "context": {},
+      "conditions": "@Não_Aluno:Cursos",
+      "dialog_node": "node_6_1664158255496",
+      "previous_sibling": "node_2_1664157421460"
+    },
+    {
+      "type": "standard",
+      "title": "Assunto",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Perfeito! Iremos te redirecionar ao nosso canal de atendimento UNIPPT, onde todas suas dúvidas sobre internacionalização e como funciona serão respondidas."
+              },
+              {
+                "text": "Aguarde um instante..."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1664158227313",
+      "conditions": "#Internacionalização_Aluno",
+      "dialog_node": "node_6_1664158678101"
+    },
+    {
+      "type": "standard",
+      "title": "Entidade Rio de Janeiro",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "No Rio de Janeiro, uma unidade disponível:"
+              },
+              {
+                "text": "Unidade 1 - Av. Piribá 588, Vila Pitu."
+              },
+              {
+                "text": " Caso queira tratar sobre transferências de unidades ou um assunto mais profundo, entre em contato diretamente com nossa equipe via telefone (11) 5061-9988. \n     Obrigado até a próxima!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_10_1664160111048",
+      "conditions": "@Unidades:(Rio de Janeiro)",
+      "dialog_node": "node_6_1664252738884",
+      "previous_sibling": "node_4_1664161365960"
+    },
+    {
+      "type": "standard",
+      "title": "Entidade Não aluno",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Certo! Em qual assunto/tópico podemos lhe-ajudar hoje?\n\n - Vestibular: Informações sobre nossos futuros vestibulares.\n - Unidades: Localização das nossas unidades.\n - Cursos: As classificações dos cursos disponíveis.\n - Outros Assuntos: Qualquer outro assunto a ser resolvido, que não seja nenhum dos tópicos acima."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Bem-vindo",
+      "conditions": "@Aluno-Não_Aluno:Não",
+      "dialog_node": "node_7_1663816480274",
+      "previous_sibling": "node_4_1663804067161"
+    },
+    {
+      "type": "standard",
+      "title": "Calendário",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Olá! Qual seria a duvida do calendário de aulas?\nLembrando que seu calendário esta disponível no portal, porém também estou enviando aqui por precaução!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1663804067161",
+      "conditions": "@Aluno:Calendário",
+      "dialog_node": "node_7_1664160167187",
+      "previous_sibling": "node_4_1664160165255"
+    },
+    {
+      "type": "standard",
+      "title": "Entidade Outros assuntos",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ok! Sua dúvida será respondida por e-mail dentro da próximas 48 horas. Aguarde e se necessário nos contate novamente"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1664157421460",
+      "conditions": "#Outros_Assuntos-Não_Aluno",
+      "dialog_node": "node_8_1664161360355"
+    },
+    {
+      "type": "standard",
+      "title": "Assunto",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Legal! Sobre qual graduação iremos falar?\nConsulte nossos cursos diponíveis em www.unippt.com.br"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1664158255496",
+      "conditions": "@confirmacao:OK",
+      "dialog_node": "node_8_1664161362321"
+    },
+    {
+      "type": "standard",
+      "title": "Assunto",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "O seu boletim esta já está disponível, enviarei em breve. (Boletim Completo)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1664160165255",
+      "conditions": "#Boletim-Aluno",
+      "dialog_node": "node_9_1664160308219"
+    }
+  ],
+  "counterexamples": [
+    {
+      "text": "Santa catarina"
+    }
+  ],
+  "system_settings": {
+    "disambiguation": {
+      "prompt": "Você quis dizer:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "Nenhuma das anteriores"
+    },
+    "human_agent_assist": {
+      "prompt": "Você quis dizer:"
+    },
+    "intent_classification": {
+      "training_backend_version": "v2"
+    }
+  },
+  "learning_opt_out": false,
+  "name": "Ajuda",
+  "language": "pt-br",
+  "description": "Ajudar o usuário a escolher produtos e suportar processo de venda."
+}
